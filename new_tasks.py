@@ -1,5 +1,5 @@
 Name = input("Enter Your Name: ")
-father = input("Enter Your Fatherss Name: ")
+father = input("Enter Your Father Name: ")
 
 marks = int(input("Enter Marks (0-10): "))
 
